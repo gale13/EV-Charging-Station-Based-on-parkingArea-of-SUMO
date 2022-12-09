@@ -1,0 +1,8 @@
+<additional>
+    <chargingStation chargeDelay="2" chargeInTransit="0" power="200000" efficiency="0.95" endPos="25" id="char1" lane="E4_0" startPos="10"/>
+
+   <parkingArea id="ParkAreaB" lane="E3_0" startPos="240" endPos="260" roadsideCapacity="0" width="5" length="10" angle="30">
+    <space x="33" y="93" width="4" length="8" angle="90"/>
+    <space x="43" y="93" width="4" length="8" angle="90"/>
+   </parkingArea>
+</additional>
